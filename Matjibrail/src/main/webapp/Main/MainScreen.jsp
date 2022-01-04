@@ -42,6 +42,8 @@ a{text-decoration:none}
 	border-bottom: 1px solid;
 	border-color: #81BEF7;
 }
+
+
 #footer
 {
 	height:200px;
@@ -151,26 +153,28 @@ a{text-decoration:none}
 	</div> -->
 	
 
-	 <div class="subway-map" data-columns="12" data-rows="10" data-cellSize="40" data-legendId="legend" data-textClass="text" data-gridNumbers="true" data-grid="false" data-lineWidth="8">
-        <ul data-color="#ff4db2" data-label="jQuery Widgets" >          
-            <li data-coords="2,2" data-marker="interchange"><a href="https://jqueryui.com/demos/accordion/">Accordion</a></li>  
-            <li data-coords="4,2"><a href="https://jqueryui.com/demos/autocomplete/"><a href="https://jqueryui.com/demos/autocomplete/">Auto\ncomplete</a></li>  
-            <li data-coords="5,3" data-dir="E"></li>  
-            <li data-coords="5,7" data-marker="@station" data-labelPos="W"><a href="https://jqueryui.com/demos/slider/">Slider</a></li> <!-- marker-only node -->  
-            <li data-coords="6,4" data-dir="S" data-marker="interchange" data-markerInfo="h5"><a href="https://jqueryui.com/demos/datepicker/">Date\npicker</a></li>  
-            <li data-coords="7,4"></li>  
-            <li data-coords="7.15,8" data-marker="@station" data-labelPos="E"><a href="https://jqueryui.com/demos/dialog/">Dialog</a></li>  <!-- marker-only node, moved to the right by 0.15 -->
-            <li data-coords="8,3" data-dir="E"></li>  
-            <li data-coords="8,2"></li>  
-            <li data-coords="9,1" data-dir="N"></li>  
-            <li data-coords="10,2" data-dir="E" data-marker="interchange" data-labelPos="E"><a href="https://jqueryui.com/demos/button/">Button</a></li>  
-            <li data-coords="10,5"></li>  
-            <li data-coords="9,6" data-dir="S" data-marker="station"><a href="https://jqueryui.com/demos/progressbar/">Progress\nbar</a></li>  
-            <li data-coords="6,9"></li>  
-            <li data-coords="5,8" data-dir="W"></li>  
-            <li data-coords="5,7"></li>  
-            <li data-coords="4,6" data-dir="N"></li>  
-            <li data-coords="2,6"><a href="https://jqueryui.com/demos/tabs/">Tabs</a></li>  
+	 <div class="subway-map" data-columns="38" data-rows="10" data-cellSize="40" data-legendId="legend" data-textClass="text" data-gridNumbers="true" data-grid="false" data-lineWidth="8"">
+        <ul data-color="#008000" data-label="jQuery Widgets" >          
+           	
+           	<li data-coords="8,4"><a href="">신촌</a></li>
+           	<li data-coords="10,4"><a href="">이대</a></li>
+           	<li data-coords="12,4"><a href="">아현</a></li>
+           	<li data-coords="14,4"><a href="">충정로</a></li>
+           	<li data-coords="16,4"><a href="">시청</a></li>
+           	<li data-coords="18,4"><a href="">을지로입구</a></li>
+           	<li data-coords="20,4"><a href="">을지로3가</a></li>
+           	<li data-coords="22,4"><a href="">을지로4가</a></li>
+           	<li data-coords="24,4"><a href="">동대문역사문화공원</a></li>
+           	<li data-coords="26,4"><a href="">신당</a></li>
+           	<li data-coords="28,4"><a href="">상왕십리</a></li>
+           	<li data-coords="30,4"><a href="">왕십리</a></li>
+           	<li data-coords="32,4"><a href="">한양대</a></li>
+           	<li data-coords="34,4"><a href="">뚝섬</a></li>
+           	<li data-coords="36,4"><a href="">성수</a></li>
+           	
+           	
+           	
+           	
         </ul>
 
      </div>
