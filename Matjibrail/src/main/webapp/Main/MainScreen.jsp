@@ -98,6 +98,7 @@ a{text-decoration:none}
 }
 </style>
 
+
 </head>
 <body link="black" vlink="black">
 <!-- 위 -->
@@ -142,13 +143,11 @@ a{text-decoration:none}
 
 <!-- 메인부분 -->
 <div id="section">
-	<div style="text-align: center;">
+	<!-- <div style="text-align: center;">
 	<img alt="" src="images/rail2.png" width="1000px" height="600px">
-	</div>
+	</div> -->
 	
 </div>
-
-
 
 <!-- 하단 -->
 <div id="footer">
@@ -164,6 +163,7 @@ a{text-decoration:none}
 		<h6>주소 : 서울시 영등포구 영중로 56 신한빌딩 4, 5층 주식회사 글로벌인</h6>
 		<h6>Email : matjibcs@gmail.com</h6>
 	</div>
+	 
 	
 </div>
 
